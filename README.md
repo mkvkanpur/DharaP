@@ -1,4 +1,4 @@
-# dhara_seq
+# DharaP
 
 Currently DHARA supports fully-compressible convection with ideal gas equation.
 
